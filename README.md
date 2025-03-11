@@ -1,2 +1,2 @@
 # Proyecto-de-Emmanueles
-proyecto de emmanuel palacio mesa y juan emanuel gaviria
+proyecto de Emmanuel Palacio Mesa y Juan Emmanuel Gaviria
