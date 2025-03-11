@@ -1,0 +1,23 @@
+.tablero {
+    background-color: #333333;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+  }
+  
+  .tablero h2 {
+    color: #003366;
+  }
+  
+  .anuncio {
+    background-color: #2c2f36;
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 10px 0;
+  }
+  
+  .anuncio:hover {
+    border: 2px solid #ffd700;
+  }
+  
