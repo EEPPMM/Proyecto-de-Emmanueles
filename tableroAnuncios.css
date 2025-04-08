@@ -21,3 +21,76 @@
     border: 2px solid #ffd700;
   }
   
+  .btnAgregarAnuncio {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #ffd700;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  .btnAgregarAnuncio:hover {
+    background-color: #ffd107;
+  }
+
+  .formulario {
+    margin-top: 20px;
+}
+
+.formulario input,
+.formulario textarea {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.formulario textarea {
+    height: 60px;
+    resize: none;
+}
+
+.comentarios {
+  margin-top: 40px;
+}
+
+.lista-comentarios {
+  margin-top: 20px;
+}
+
+.comentario {
+  color: black;
+  background-color: lightgray;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px 0;
+}
+
+.formulario input {
+  width: calc(100% - 22px);
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.btnAgregarComment {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  padding: 10px 20px;
+  background-color: #ffd700;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.btnAgregarComment:hover {
+  background-color: #ffd107;
+}
